@@ -21,7 +21,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 */
 
-#include "../config.h"
+//#include "../config.h"
 
 #include <stdio.h>
 #include <string.h>

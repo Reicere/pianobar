@@ -23,7 +23,7 @@ THE SOFTWARE.
 
 #pragma once
 
-#include "../config.h"
+//#include "../config.h"
 
 #include <stdbool.h>
 #ifdef __FreeBSD__
